@@ -152,8 +152,8 @@ This project is open-source and available under the MIT License. Feel free to mo
 
 ## 🤝 Contributors  
 
-- **Shaan Patel**  
-- **shivam satapara**
+- **[shaan patel](https://github.com/Shaan013)**  
+- **[shivam satapara](https://github.com/shivamsatapara)**
 
 For inquiries, contact us.  
 
